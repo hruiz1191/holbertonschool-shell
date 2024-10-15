@@ -1,0 +1,2 @@
+#! /bin/bash
+mv etc/betty etc/My_first_directory/betty
